@@ -12,6 +12,5 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
-	<classpathentry kind="lib" path="/Users/U6046883/.gradle/caches/modules-2/files-2.1/org.apache.storm/storm-core/1.0.3/73e870167559cb4cc39c95119625000d5969c0a8/storm-core-1.0.3.jar" sourcepath="/Users/U6046883/.gradle/caches/modules-2/files-2.1/org.apache.storm/storm-core/1.0.3/6bba21f6b6ec64a3e51d8fecc333a6e35f042630/storm-core-1.0.3-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
